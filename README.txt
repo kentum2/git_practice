@@ -10,3 +10,6 @@ git commit -m "First commit" to make your first commit with the new README file.
 
 git remote add origin https://github.com/kentum2/git_practice.git
 git push -u origin master
+git checkout HEAD filename: Discards changes in the working directory.
+git reset HEAD filename: Unstages file changes in the staging area.
+git reset commit_SHA: Resets to a previous commit in your commit history.
