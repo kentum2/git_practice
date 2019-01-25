@@ -19,4 +19,4 @@ git checkout branch_name: Used to switch from one branch to another.
 git merge branch_name: Used to join file changes from one branch to another.
 git branch -d branch_name: Deletes the branch specified.
 git clone remote_location clone_name
-git clone remote_location clone_name
+
